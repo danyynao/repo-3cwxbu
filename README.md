@@ -1,8 +1,10 @@
 September 16, 2026
 
-<!-- notify 1/2 · JtcjbYG2 -->
-## Notification 1/2
-Round: Round 1
-To: calieder@juno.com, maggie@themissels.com
-At: 2026-09-16 14:11:28
-Id: JtcjbYG2
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: shumaker4@comcast.net, sam@haddad.com
+At: 2026-09-16 14:11:36
+Id: m0CypeOn
